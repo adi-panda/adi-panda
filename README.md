@@ -8,11 +8,12 @@
 
 <p>
 
-  
-<a target="_blank"><img alt="Follow" src="https://img.shields.io/github/followers/adi-panda?style=social"/></a>
+
+<a href="https://www.youtube.com/@adi-panda" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/youtube-black.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/adipanda/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/adipanda_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-black.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
+<a target="_blank"><img alt="Follow" src="https://img.shields.io/github/followers/adi-panda?style=social"/></a>
 
 
