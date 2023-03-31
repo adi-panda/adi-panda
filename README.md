@@ -5,6 +5,9 @@
 - How to reach me - hello@adipanda.me 📫 
 - Learn more about me [here.](adipanda.me) 🔎
 
+[![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fly3366&show_icons=true&theme=dark)](https://github.com/adi-panda/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fly3366&layout=compact&show_icons=true&theme=dark)](https://github.com/adi-panda/github-readme-stats)
+
 
 <p>
 
