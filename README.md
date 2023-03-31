@@ -6,6 +6,10 @@
 - Learn more about me [here.](adipanda.me) 🔎
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi-panda)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <p>
 
 
