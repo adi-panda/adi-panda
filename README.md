@@ -6,7 +6,7 @@
 - Learn more about me [here.](adipanda.me) 🔎
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi-panda&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-3y88y2dee-adi-panda.vercel.app/api?username=adi-panda&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://www.youtube.com/@adi-panda" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/youtube-black.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
