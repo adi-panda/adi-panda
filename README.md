@@ -8,7 +8,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi-panda&show_icons=true&theme=dark)](https://github-readme-stats-adi-panda.vercel.app)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi-panda&show_icons=true&theme=dark)](https://github.com/adi-panda/github-readme-stats)
 
 <p>
 
