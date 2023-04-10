@@ -1,6 +1,6 @@
 ### Hey!, I'm Adi Panda :wave:
 
-- **UTAustin** [Computer Science](https://www.cs.utexas.edu/) student 📚
+- **UTAustin** [Computer Science](https://www.cs.utexas.edu/) student. 📚
 - I’m interested in software engineering / computer vision. 👀 
 - How to reach me - hello@adipanda.me 📫 
 - Learn more about me [here.](adipanda.me) 🔎
