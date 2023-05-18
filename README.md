@@ -1,5 +1,19 @@
 ### Hey!, I'm Adi Panda :wave:
 
+
+<div style="display:inline-block;text-align:left;">
+  <h2 style="text-align:center">Bad</h2>
+  <pre>
+      <code class="language-c">
+      int foo (void) 
+      {
+      int i;
+      }  
+      <span style="background-color:cyan">test</span>
+     </code>
+ </pre>
+</div>
+
 - **UTAustin** [Computer Science](https://www.cs.utexas.edu/) student. 📚
 - I’m interested in software engineering / computer vision. 👀 
 - How to reach me - hello@adipanda.me 📫 
