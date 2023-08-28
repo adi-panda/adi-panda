@@ -8,7 +8,62 @@
 [![Anurag's GitHub stats](https://github-readme-stats-3y88y2dee-adi-panda.vercel.app/api?username=adi-panda&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<table>
+<tr>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+\```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+\```
+  
+</td>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+\```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+\```
+  
+</td>
+</tr>
+<tr>
+<td align="center">
+Column 1
+</td>
+<td align="center">
+Column 2
+</td>
+</tr>
+</table>
 
 
 
